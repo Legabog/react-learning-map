@@ -1,5 +1,5 @@
 # React Learning Map:
-[Fundametals Topics](https://github.com/Legabog/react-learning-map/tree/fundamental_topics)
+* [Fundametals Topics](https://github.com/Legabog/react-learning-map/tree/fundamental_topics)
 * [Advanced Topics](https://github.com/Legabog/react-learning-map/tree/advanced_topics)
 * [Ecosystem Topics](https://github.com/Legabog/react-learning-map/tree/ecosystem_topics)
 
