@@ -17,7 +17,7 @@
 -----
 [Create-react-app official page](https://create-react-app.dev/)
 -----
-[Github](https://learn-reactjs.ru/introduction/create-a-new-react-app)
+[Github](https://github.com/facebook/create-react-app)
 -----
 
 ## Class Components
