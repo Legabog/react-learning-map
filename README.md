@@ -17,4 +17,17 @@
 ## Class Components
 ...
 -----
+
+## Helpfull youtube channels:
+## Ru
+* [Владилен Минин](https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw)
+* [IT-KAMASUTRA](https://www.youtube.com/channel/UCTW0FUhT0m-Bqg2trTbSs0g)
+* [webDev](https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg)
+* [Archakov Blog](https://www.youtube.com/c/ArchakovBlog)
+
+## Eng
+* [Codevolution](https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw)
+* [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+* [Ben Awad](https://www.youtube.com/c/BenAwad97)
+
 [Back to map](https://github.com/Legabog/react-learning-map/tree/main)
